@@ -1,0 +1,88 @@
+{
+    "en": {
+        "translation": {
+            "name": "Marco A. Miranda",
+            "greeting": "Hello I'm",
+            "occupation": "Software developer",
+            "paragraph1": "With over 8 years of experience turning ideas into scalable, reliable, and efficient applications.",
+            "paragraph2": "I specialize in full-stack development, building clean, maintainable solutions from backend to frontend. I’m passionate about clean code, thoughtful architecture, and delivering results that solve real problems.",
+            "motto": "Code with purpose, build with vision.",
+            "buildSomething": "Let's build something",
+            "cv": "Curriculum vitae",
+            "stack": "Technologies I’ve worked with",
+            "technologies": "Key technologies in my professional journey.",
+            "contact": {
+                "title": "Have a project in mind?",
+                "subtitle": "Let's talk!",
+                "send": "Send message",
+                "placeholder": {
+                    "name": "Enter your name",
+                    "email": "Enter a valid email address",
+                    "message": "Write your message here..."
+                },
+                "success": "Message sent successfully!",
+                "failed": "Failed to send message. Please try again.",
+                "errors": {
+                    "name": {
+                        "required": "Name is required",
+                        "minLength": "Name must be at least 3 characters long",
+                        "maxLength": "Name must be at most 70 characters long",
+                        "onlyLetters": "Name must contain only letters and spaces"
+                    },
+                    "email": {
+                        "required": "Email is required",
+                        "invalid": "Email is invalid"
+                    },
+                    "message": {
+                        "required": "Message is required",
+                        "minLength": "Message must be at least 10 characters long",
+                        "maxLength": "Message must be at most 500 characters long"
+                    }
+                }
+            }
+        }
+    },
+    "es": {
+        "translation": {
+            "name": "Marco A. Miranda",
+            "greeting": "Hola, soy",
+            "occupation": "Desarrollador de software",
+            "paragraph1": "Con más de 8 años de experiencia convirtiendo ideas en aplicaciones escalables, confiables y eficientes.",
+            "paragraph2": "Me especializo en desarrollo full-stack, construyendo soluciones limpias y mantenibles desde el backend hasta el frontend. Me apasiona escribir código limpio, diseñar arquitecturas bien pensadas y entregar resultados que resuelvan problemas reales.",
+            "motto": "Código con propósito, soluciones con visión.",
+            "buildSomething": "Hagamos algo juntos",
+            "cv": "Currículum vitae",
+            "stack": "Tecnologías que he utilizado",
+            "technologies": "Tecnologías clave en mi experiencia profesional.",
+            "contact": {
+                "title": "¿Tienes un proyecto en mente?",
+                "subtitle": "¡Hablemos!",
+                "send": "Enviar mensaje",
+                "placeholder": {
+                    "name": "Introduce tu nombre",
+                    "email": "Introduce un correo electrónico válido",
+                    "message": "Escribe tu mensaje aquí..."
+                },
+                "success": "¡Mensaje enviado exitosamente!",
+                "failed": "Error al enviar el mensaje. Por favor, inténtalo de nuevo.",
+                "errors": {
+                    "name": {
+                        "required": "El nombre es obligatorio",
+                        "minLength": "El nombre debe tener al menos 3 caracteres",
+                        "maxLength": "El nombre debe tener como máximo 70 caracteres",
+                        "onlyLetters": "El nombre solo puede contener letras y espacios"
+                    },
+                    "email": {
+                        "required": "El correo electrónico es obligatorio",
+                        "invalid": "El correo electrónico no es válido"
+                    },
+                    "message": {
+                        "required": "El mensaje es obligatorio",
+                        "minLength": "El mensaje debe tener al menos 10 caracteres",
+                        "maxLength": "El mensaje debe tener como máximo 500 caracteres"
+                    }
+                }
+            }
+        }
+    }
+}
