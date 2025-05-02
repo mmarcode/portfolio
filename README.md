@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/87ea8e28-1b87-4380-8375-e42fd3d5fd38)
+
+
 ## 🚀 Portfolio
 
 This project is a portfolio built with **Vite + React + TailwindCSS**. It includes development and production support using **Docker** and **Makefile** for easy automation.
