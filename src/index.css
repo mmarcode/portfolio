@@ -4,4 +4,19 @@
   font-family: 'Prompt', sans-serif;
 }
 
+
+@theme {
+  /* Colors */
+  --color-primary: #17191f;
+  --color-secondary: #EC7FFF;
+  --color-secondary-dark: #954da1;
+
+  /* Breakpoints */
+  --breakpoint-xs: 350px;
+
+  /* Font */
+  --font-sans: 'Prompt', sans-serif;
+  --text-xs: 9px
+}
+
 @custom-variant dark (&:where(.dark, .dark *));

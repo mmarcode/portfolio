@@ -14,7 +14,7 @@ const Contact = () => {
         <>
             <button onClick={toggleModal} className="px-6 py-3 lg:px-7 lg:py-3.5 rounded-lg bg-neutral-100 hover:bg-neutral-300
                 dark:bg-neutral-800 dark:hover:bg-neutral-700 border border-neutral-300 dark:border-neutral-700 text-neutral-900 dark:text-white
-                font-medium flex items-center transition group">
+                font-medium flex items-center justify-center transition group">
                 <i className="bx bx-code-alt mr-2 lg:mr-3 text-lg lg:text-xl group-hover:rotate-12 transition-transform"></i>
                 <span>{t('buildSomething')}</span>
             </button>

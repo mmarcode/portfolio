@@ -8,7 +8,7 @@ import './i18n/i18n'
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-neutral-100 dark:bg-[#17191f] transition-colors duration-300 isolate">
+    <div className="min-h-screen bg-neutral-100 dark:bg-primary transition-colors duration-300 isolate">
       <Toaster position="top-right" reverseOrder={false} />
       <StarsBackground />
       <Header />
