@@ -57,6 +57,6 @@ Please make sure to update tests as appropriate.
 [MIT](LICENSE.txt)
 
 
-<footer style="text-align:center; font-size:0.9rem; color:#888;">
-  🌵 Crafted by — <strong>[mmarcode](https://mmarcode.vercel.app/).</strong>
-</footer>
+<div align="center">
+  🌵 <strong>Crafted by — [**mmarcode**](https://mmarcode.vercel.app/)</strong>
+</div>
