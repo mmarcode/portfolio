@@ -54,4 +54,9 @@ Please make sure to update tests as appropriate.
 
 ## 🔑 License
 
-[MIT](LICENSE.txt) - Creado por [**mmarcode**](https://mmarcode.vercel.app/).
+[MIT](LICENSE.txt)
+
+
+<footer style="text-align:center; font-size:0.9rem; color:#888;">
+  🌵 Crafted by — <strong>[mmarcode](https://mmarcode.vercel.app/).</strong>
+</footer>
