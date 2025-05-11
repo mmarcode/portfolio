@@ -58,5 +58,5 @@ Please make sure to update tests as appropriate.
 
 
 <div align="center">
-  🌵 <strong>Crafted by — [**mmarcode**](https://mmarcode.vercel.app/)</strong>
+  🌵 <strong>Crafted by — mmarcode</strong>
 </div>
