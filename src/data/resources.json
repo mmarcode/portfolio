@@ -39,7 +39,16 @@
                         "maxLength": "Message must be at most 500 characters long"
                     }
                 }
-            }
+            },
+            "profiles": [{
+                "network": "GitHub",
+                "username": "mmarcode",
+                "url": "https://github.com/mmarcode"
+            }, {
+                "network": "LinkedIn",
+                "username": "mmarcode",
+                "url": "https://www.linkedin.com/in/mmarcode/"
+            }]
         }
     },
     "es": {
@@ -82,7 +91,16 @@
                         "maxLength": "El mensaje debe tener como máximo 500 caracteres"
                     }
                 }
-            }
+            },
+            "profiles": [{
+                "network": "GitHub",
+                "username": "mmarcode",
+                "url": "https://github.com/mmarcode"
+            }, {
+                "network": "LinkedIn",
+                "username": "mmarcode",
+                "url": "https://www.linkedin.com/in/mmarcode/"
+            }]
         }
     }
 }
